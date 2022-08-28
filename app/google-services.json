@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "532979375666",
+    "firebase_url": "https://grocery-app-ee684-default-rtdb.firebaseio.com",
+    "project_id": "grocery-app-ee684",
+    "storage_bucket": "grocery-app-ee684.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:532979375666:android:e2a2765b7b7adb1dce662b",
+        "android_client_info": {
+          "package_name": "com.sangeetha.grocy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "532979375666-jdo2kj5gt4skki3lig3lieoaeq4eq1t3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJ4YTtqm0HwqiiGB4P9aHSmdq6bY4Zouc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "532979375666-jdo2kj5gt4skki3lig3lieoaeq4eq1t3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
